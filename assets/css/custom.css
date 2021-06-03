@@ -3,7 +3,12 @@ h1, h2 {
 }
 
 #contenido {
-    margin-top: 40px;
+    min-height: 80vh;
+  display: flex;
+  place-content: center;
+  justify-content: center;
+  justify-content: center;
+  align-items: center;
 }
 .borrar-tweet,
 .borrar-tweet:hover {
